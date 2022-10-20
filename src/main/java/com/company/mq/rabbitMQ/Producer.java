@@ -1,9 +1,8 @@
-package rabbitMQ;
+package com.company.mq.rabbitMQ;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
-import org.apache.commons.lang.time.DateUtils;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
