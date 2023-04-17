@@ -1,4 +1,4 @@
-package com.company.threadTest;
+package com.company.Thread;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
